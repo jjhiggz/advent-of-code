@@ -12,5 +12,14 @@
     "code"
   ],
   "author": "me",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.3",
+    "vitest": "^0.25.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "eslint": "^8.28.0"
+  }
 }
