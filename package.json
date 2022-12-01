@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "these are my advent of code solutions bruh",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --watch"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
